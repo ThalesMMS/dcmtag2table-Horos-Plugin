@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Linguist configuration - treat Horos.framework as vendor
+dcmtag2table-Horos-Plugin/Horos.framework linguist-vendored
