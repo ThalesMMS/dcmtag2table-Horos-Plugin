@@ -3,3 +3,5 @@
 
 # Linguist configuration - treat Horos.framework as vendor
 dcmtag2table-Horos-Plugin/Horos.framework/** linguist-vendored
+
+dcmtag2table-Horos-Plugin/OsiriXAPI.framework/** linguist-vendored
